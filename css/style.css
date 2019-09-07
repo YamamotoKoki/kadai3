@@ -1,0 +1,122 @@
+@charset "UTF-8";
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	background-color: #9ffcf5
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+h1 {
+  font-size: 30px;
+  background-color: #6aa7f7;
+  padding: 50px;
+}
+h2 {
+  font-size: 20px;
+  margin-top: 20px;
+	margin-bottom: 20px;
+}
+table, .masu, .a, .aiueo {
+  border: solid 1px;
+}
+.hyou1 {
+	text-align: center;
+	padding-left: 160px;
+}
+.text {
+	text-align: center;
+	padding-left: 160px;
+	padding-right: 0px;
+}
+.masu {
+	text-align: center;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.a {
+	text-align: center;
+}
+.aiueo {
+	text-align: center;
+}
+table {
+	margin-left: 100px;
+}
+.ozii {
+	margin-left: 150px;
+	float: left;
+}
+.syoukai {
+	margin-top: 90px;
+	margin-left: 100px;
+	float: left;
+}
+.prof {
+	text-align: center;
+	position: relative;
+}
+p {
+	padding: 10px;
+}
+.lest {
+	float: right;
+	height: 100%;
+  position: sticky;
+  top: 10px;
+	padding-right: 260px;
+	margin-top: auto;
+	background-color: #85ffba
+}
+.tag {
+	clear: left;
+	clear: right;
+	text-align: center;
+	background-color: #82ed82;
+	position: absolute;
+	bottom: 0;
+}
+h3 {
+	font-size: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+ul {
+	list-style: disc;
+	background-color: #85ffba
+}
+li {
+	padding: 10px;
+}
